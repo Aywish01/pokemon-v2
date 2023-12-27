@@ -5,32 +5,8 @@
     "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
     },
     {
-    "name": "Buzzwole",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png"
-    },
-    {
-    "name": "Groudon",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png"
-    },
-    {
-    "name": "Raikou",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png"
-    },
-    {
-    "name": "Cryogonal",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png"
-    },
-    {
-    "name": "Pancham",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png"
-    },
-    {
     "name": "Charmeleon",
     "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
-    },
-    {
-    "name": "Entei",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png"
     },
     {
     "name": "Mewtwo",
@@ -45,6 +21,30 @@
     "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
     },
     {
+    "name": "Eevee",
+    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+    },
+    {
+    "name": "Snorlax",
+    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+    },
+    {
+    "name": "Raikou",
+    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png"
+    },
+    {
+    "name": "Cryogonal",
+    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png"
+    },
+    {
+    "name": "Pancham",
+    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png"
+    },
+    {
+    "name": "Entei",
+    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png"
+    },
+        {
     "name": "Suicune",
     "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png"
     },
@@ -57,7 +57,7 @@
     "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
     },
     {
-    "name": "Jigglypuf",
+    "name": "Jigglypuff",
     "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
     },
     {
@@ -79,14 +79,6 @@
     {
     "name": "Deoxys",
     "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/386.png"
-    },
-    {
-    "name": "Eevee",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
-    },
-    {
-    "name": "Snorlax",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
     }
     ]
-}
+    }
